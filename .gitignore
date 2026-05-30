@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+sample/
+.DS_Store
+*.onnx
+~/.insightface/
+threshold_data.json
+.streamlit/
